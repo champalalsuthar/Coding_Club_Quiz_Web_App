@@ -1,3 +1,22 @@
+# Preview:
+https://cuhcodingclub.vercel.app/
+
+# Frontend repository:
+https://github.com/champalalsuthar/Coding_Club_Quiz_Frontend
+
+# Backend repository:
+https://github.com/champalalsuthar/Coding_Club_Quiz_Backend
+
+#  CODING CLUB WEBAPP <br/>
+• Developing a user-friendly web application.<br/>
+• Focuses on a quiz plaƞorm for the Coding Club at Central University of Haryana.</br>
+• Users can log in to their accounts for personalized access.<br>
+• Allows students to select coding quizzes based on preferred subjects.<br/>
+• The web app provides instant results for a seamless user experience.<br/>
+• Added modules like User login, signup. <br/>
+• Used Technologies: `React Js ,Node Js, Mongo Db, Express Js.` <br/>
+
+
 # 1 Result
 # 1.1 Home page
 The home page serves as the welcoming entry point, hero section, offering users an overview of available quizzes and easy navigation to other sections.
